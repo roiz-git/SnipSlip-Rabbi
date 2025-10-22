@@ -8,4 +8,4 @@ Cut and paste files in Finder with Cmd+X and Cmd+V - move files as easily as tex
 ## Requirements
 - macOS 10.15 (Catalina) or later
 - - Accessibility permissions (to be able to listen to Cmd+X shortcut)
-- To avoid MacOS Gatekeeper `xattr -dr com.apple.quarantine /path/SnipSlip Rabbi.app`
+- To avoid MacOS Gatekeeper `xattr -rd com.apple.quarantine /path/SnipSlip Rabbi.app`
