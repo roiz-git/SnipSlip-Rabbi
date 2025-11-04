@@ -1,4 +1,4 @@
-# SnipSlip-Rabbi
+# SnipSlip-Rabbi ![A]lt text {https://github.com/roiz-git/SnipSlip-Rabbi/blob/main/icon_256x256.png}
 
 Once upon a time in Windows and Linux OS you could cut and paste files...
 
